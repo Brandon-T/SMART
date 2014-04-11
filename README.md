@@ -1,7 +1,7 @@
 SMART
 ===
 
-About SMART:
+About:
 ------------
 
 SMART was created by BenLand100 (~Benjamin J. Land) a very long time ago. It is currently hosted
